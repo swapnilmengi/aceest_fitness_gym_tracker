@@ -84,16 +84,20 @@ Check pipeline runs on GitHub **Actions** tab.
 
 ## Project Structure
 
-├── ACEest_Fitness.py # Tkinter GUI app 
-├── Dockerfile # Docker container config 
-├── requirements.txt # Python dependencies 
-├── test_ACEest_Fitness.py # Pytest unit tests 
-├── README.md # This documentation file 
-└── .github/ 
-└── workflows/ 
+aceest_fitness_gym/
+├── ACEest_Fitness.py # Tkinter GUI app
+├── Dockerfile # Docker container config
+├── requirements.txt # Python dependencies
+├── test_ACEest_Fitness.py # Pytest unit tests
+├── README.md # This documentation file
+└── .github/
+└── workflows/
 └── main.yml # GitHub Actions workflow
+
+undefined
+
 ---
 
 ## Contact
 
-For issues or questions, contact Swapnil Mengi <2025ht66022@wilp.bits-pilani.ac.in>.
+For issues or questions, contact Swapnil Mengi <2025ht66022@wilp.bits-pilani.ac.in>
