@@ -85,7 +85,12 @@ Check pipeline runs on GitHub **Actions** tab.
 ## Project Structure
 
 aceest_fitness_gym/
+|- ACEest_Fitness.py #Tkinter GUI app
+|- Dockerfile
+
+aceest_fitness_gym/
 ├── ACEest_Fitness.py # Tkinter GUI app
+
 ├── Dockerfile # Docker container config
 ├── requirements.txt # Python dependencies
 ├── test_ACEest_Fitness.py # Pytest unit tests
